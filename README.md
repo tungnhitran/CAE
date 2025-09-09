@@ -6,15 +6,15 @@ This repo contains two versions of a convolutional autoencoder designed for imag
 - **Description**: This is the original implementation of the convolutional autoencoder, which was published in a scientific magazine. It includes the foundational architecture and methodology for denoising MNIST images.
     - Uses Mean Squared Error (MSE) as the loss function.
     - Optimized with the Adam optimizer.
-- **File**: 'CAE_DenoiseImage.ipynb'
+- **File**: `CAE_DenoiseImage.ipynb`
 This version was published in "Dong A University Journal of Science" 
-[Read more about the publication here](https://js.donga.edu.vn/index.php/daujs/article/view/9)
+[DENOISING IMAGES USING CONVOLUTIONAL AUTOENCODER TECHNIQUE ](https://js.donga.edu.vn/index.php/daujs/article/view/9)
 
 ## New version (Improved Implemetation)
 - Description: This is an updated and improved version of the convolutional autoencoder, addressing limitations of the old version and incorporating advancements in architecture and training methodology.
 - Improvements: 
     - Enhanced Architecture: The autoencoder architecture has been refined with activation functions to better capture image features.
-    - Different Loss Function: USe binary crossentropy instead of MSE.
+    - Different Loss Function: Use binary crossentropy instead of MSE.
 
 ## Repository Structure
 
