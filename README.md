@@ -7,7 +7,7 @@ This repo contains two versions of a convolutional autoencoder designed for imag
     - Uses Mean Squared Error (MSE) as the loss function.
     - Optimized with the Adam optimizer.
 - **File**: `CAE_DenoiseImage.ipynb`
-This version was published in "Dong A University Journal of Science" 
+This version was published in "Dong A University Journal of Science" in 2022
 [DENOISING IMAGES USING CONVOLUTIONAL AUTOENCODER TECHNIQUE ](https://js.donga.edu.vn/index.php/daujs/article/view/9)
 
 ## New version (Improved Implemetation)
