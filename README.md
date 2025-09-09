@@ -20,6 +20,7 @@ This version was published in "Dong A University Journal of Science" in 2022
 
 - `CAE_Denoise_old_version`: The original published version of the autoencoder.
 - `main.ipynb`: The improved version with enhanced architecture and loss function.
+- `denoising_autoencoder.h5`: The saved model after improving.
 
 
 ## Requirements
