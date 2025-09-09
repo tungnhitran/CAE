@@ -33,7 +33,7 @@ This version was published in "Dong A University Journal of Science" in 2022
 1. **Old Version**:
 
    - Run `CAE_DenoiseImage.ipynb` in a Jupyter Notebook environment (preferably Google Colab with GPU support).
-   - The notebook loads the MNIST dataset, trains the autoencoder, and generates denoised images for digit '3'.
+   - The notebook loads the MNIST dataset, trains the autoencoder, and generates denoised images.
    - Outputs include a training loss plot (`plot.png`) and sample reconstructions (`output.png`).
 
 2. **New Version**:
